@@ -1,10 +1,10 @@
 import cv2 as cv
 
-#READING IMAGE 
 
-# img=cv. imread ('/Users/paarthminear/Downloads/PM/Code/VS code/image processing/Photos/cat.jpg')
-# cv. imshow( 'Cat', img)
-# cv. waitKey (0)
+
+img=cv. imread ('/Users/paarthminear/Downloads/PM/Code/VS code/image processing/Photos/cat.jpg')
+cv. imshow( 'Cat', img)
+cv. waitKey (0)
 # import cv2 as cv
 
 # img = cv.imread('/Users/paarthminear/Downloads/PM/Code/VS code/image processing/Photos/cat.jpg')
