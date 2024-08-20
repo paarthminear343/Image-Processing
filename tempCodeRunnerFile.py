@@ -1,1 +1,0 @@
-'/Users/paarthminear/Downloads/PM/Code/VS code/image processing/Photos/group 1.jpg'
